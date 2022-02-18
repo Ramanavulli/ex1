@@ -1,5 +1,3 @@
-#include <iostream>
-#include <sstream>
 
 double Series(int pTerms)
 {
